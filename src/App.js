@@ -9,6 +9,7 @@ export default function App() {
       <div className='container'>
         <Body />
       </div>
+
     </div>
   );
 }
